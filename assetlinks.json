@@ -1,0 +1,4 @@
+---
+permalink: /.well-known/assetlinks.json
+---
+[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"io.github.mpsk9418_glitch.twa","sha256_cert_fingerprints":["0D:BD:84:5A:39:A9:AE:DA:35:0D:2E:26:E3:F8:69:54:CF:AA:91:D5:2C:56:3C:E0:8B:B0:75:0F:67:86:69:11"]}}]
